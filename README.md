@@ -40,7 +40,7 @@ There are more than 1500 hours of training that covers fundamentals of web devel
 
 - [x] _[Project - All For One](modulo-3/1-all-for-one)_
 - [x] _[Project - Vocabulary Booster](modulo-3/2-vocabulary-booster)_
-- [x] _[Project - One For All](modulo-3/3one-for-all)_
+- [x] _[Project - One For All](modulo-3/3-one-for-all)_
 - [x] _[Project - Docker Todo List](modulo-3/4-docker-todo-list)_
 - [x] _[Project - Data Flights](modulo-3/5-mongodb-dataflights)_
 - [ ] _[Project - Commerce]()_

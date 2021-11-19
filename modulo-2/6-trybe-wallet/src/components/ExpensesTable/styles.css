@@ -1,0 +1,30 @@
+.expenses-table {
+  text-align: center;
+  border-spacing: 0;
+}
+
+.expenses-table thead th {
+  padding: 1em;
+  background: rgb(196, 196, 196);
+}
+
+.expenses-table tbody td {
+  padding: 1em;
+}
+
+.edit-button,
+.delete-button {
+  display: inline-block;
+  background: none;
+  border: none;
+  font-size: 1.5em;
+}
+
+.edit-button {
+  color: rgb(0, 0, 112);
+}
+
+.delete-button {
+  color: rgb(255, 28, 28);
+  margin-left: .5em;
+}

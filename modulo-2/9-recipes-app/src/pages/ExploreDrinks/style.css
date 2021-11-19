@@ -1,0 +1,39 @@
+.explore-drinks {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 0.5em;
+}
+
+.explore-drinks > div {
+  padding: 0 4em;
+  display: flex;
+  justify-content: stretch;
+  align-items: center;
+  flex-grow: 1;
+}
+
+.explore-drinks button {
+  flex-grow: 1;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+
+.explore-drink-ingredients {
+  background: var(--background-filter)
+    url('../../images/explore-drink-ingredients-small.png');
+  background-blend-mode: darken;
+  background-size: cover;
+  background-position: 50% 50%;
+  flex-grow: 1;
+  /* margin-bottom: 0.25em; */
+}
+
+.explore-random-drink {
+  background: var(--background-filter)
+    url('../../images/explore-random-drink-small.png');
+  background-blend-mode: darken;
+  background-size: cover;
+  background-position: 50% 50%;
+  flex-grow: 1;
+  /* margin-top: 0.25em; */
+}

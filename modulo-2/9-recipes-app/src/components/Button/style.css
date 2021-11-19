@@ -1,0 +1,20 @@
+.default-button {
+  background: var(--main-orange);
+  border: none;
+  color: white;
+  font-weight: 700;
+  padding: 1em 2em;
+  border-radius: 0.4em;
+  cursor: pointer;
+  user-select: none;
+  box-shadow: 0 0 1em rgba(0, 0, 0, 0.5);
+}
+
+.default-button:hover {
+  filter: brightness(1.1);
+}
+
+.default-button:disabled {
+  filter: opacity(0.5);
+  pointer-events: none;
+}

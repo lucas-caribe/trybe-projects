@@ -1,0 +1,7 @@
+.category-filters {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  place-items: center;
+  gap: 0.5em;
+  flex-wrap: wrap;
+}

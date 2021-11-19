@@ -1,0 +1,48 @@
+.explore-meals {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 0.5em;
+}
+
+.explore-meals > div {
+  padding: 0 4em;
+  display: flex;
+  justify-content: stretch;
+  align-items: center;
+  flex-grow: 1;
+}
+
+.explore-meals button {
+  flex-grow: 1;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+
+.explore-meal-ingredients {
+  background: var(--background-filter)
+    url('../../images/explore-meal-ingredients-small.jpeg');
+  background-blend-mode: darken;
+  background-size: cover;
+  background-position: 50% 50%;
+  flex-grow: 1;
+  /* margin-bottom: 0.5em; */
+}
+
+.explore-meal-areas {
+  background: var(--background-filter)
+    url('../../images/explore-meal-areas-small.jpeg');
+  background-blend-mode: darken;
+  background-size: cover;
+  background-position: 50% 50%;
+  flex-grow: 1;
+}
+
+.explore-random-meal {
+  background: var(--background-filter)
+    url('../../images/explore-random-meal-small.png');
+  background-blend-mode: darken;
+  background-size: cover;
+  background-position: 50% 50%;
+  flex-grow: 1;
+  /* margin-top: 0.5em; */
+}

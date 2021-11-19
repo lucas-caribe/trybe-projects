@@ -1,0 +1,11 @@
+/* circles */
+.ball {
+  width: 40px;
+  height: 40px;
+  border: 1px solid black;
+  border-radius: 50%;
+}
+
+.circles-section {
+  display: flex;
+}

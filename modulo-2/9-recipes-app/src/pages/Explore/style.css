@@ -1,0 +1,39 @@
+.explore-content {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+  gap: 0.5em;
+}
+
+.bg-meal,
+.bg-drink {
+  display: flex;
+  align-items: center;
+  padding: 5em 4em;
+}
+
+.bg-meal {
+  background: var(--background-filter)
+    url('../../images/explore-meals-small.jpeg');
+  background-blend-mode: darken;
+  background-size: cover;
+  background-position: 50% 50%;
+  flex-grow: 1;
+  /* margin-bottom: 0.25em; */
+}
+
+.bg-drink {
+  background: var(--background-filter)
+    url('../../images/explore-drinks-small.jpeg');
+  background-blend-mode: darken;
+  background-size: cover;
+  background-position: 50%;
+  flex-grow: 1;
+  /* margin-top: 0.25em; */
+}
+
+.bg-meal button,
+.bg-drink button {
+  flex-grow: 1;
+}

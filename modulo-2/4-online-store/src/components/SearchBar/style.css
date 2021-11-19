@@ -1,0 +1,35 @@
+.search-form {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 2em 0;
+  width: 100%;
+}
+
+.search-input {
+  border: 2px inset rgba(0, 0, 0, 0.3);
+  border-radius: 8px 0 0 8px;
+  height: 2.5em;
+  padding: 0 0.5em;
+  width: 50%;
+}
+
+.search-input:focus-visible {
+  background-color: #f7f7f7;
+  outline: none;
+}
+
+.search-button {
+  background: #e2e2e2;
+  border: none;
+  border-radius: 0 8px 8px 0;
+  cursor: pointer;
+  display: grid;
+  height: 2.5em;
+  place-items: center;
+  width: 2.5em;
+}
+
+.search-button:active {
+  filter: brightness(0.8);
+}

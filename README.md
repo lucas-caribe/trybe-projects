@@ -24,26 +24,26 @@ _There are more than 1500 hours of training that covers fundamentals of web deve
 
 ## Front-end Development - React :white_check_mark:
 
-- [x] _[Project - Movie Cards Library](2-back-end/01-movie-cards-library)_
-- [x] _[Project - Movie Cards Library Stateful](2-back-end/02-movie-cards-library-stateful)_
-- [x] _[Project - Movie Cards Library CRUD](2-back-end/03-movie-cards-library-crud)_
-- [x] _[Project - Online Store](2-back-end/04-online-store)_
-- [x] _[Project - React Testing Library](2-back-end/05-react-testing-library)_
-- [x] _[Project - Trybe Wallet](2-back-end/06-trybe-wallet)_
-- [x] _[Project - Trivia Game](2-back-end/07-trivia-react-redux)_
-- [x] _[Project - Star Wars Planet Search](2-back-end/08-starwars-planet-search)_
-- [x] _[Project - Recipes App](2-back-end/09-recipes-app)_
-- [x] _[Project - Trybe Tunes](2-back-end/extra-trybetunes)_
-- [x] _[Project - Trybe Tryunfo](2-back-end/extra-tryunfo)_
+- [x] _[Project - Movie Cards Library](2-front-end/01-movie-cards-library)_
+- [x] _[Project - Movie Cards Library Stateful](2-front-end/02-movie-cards-library-stateful)_
+- [x] _[Project - Movie Cards Library CRUD](2-front-end/03-movie-cards-library-crud)_
+- [x] _[Project - Online Store](2-front-end/04-online-store)_
+- [x] _[Project - React Testing Library](2-front-end/05-react-testing-library)_
+- [x] _[Project - Trybe Wallet](2-front-end/06-trybe-wallet)_
+- [x] _[Project - Trivia Game](2-front-end/07-trivia-react-redux)_
+- [x] _[Project - Star Wars Planet Search](2-front-end/08-starwars-planet-search)_
+- [x] _[Project - Recipes App](2-front-end/09-recipes-app)_
+- [x] _[Project - Trybe Tunes](2-front-end/extra-trybetunes)_
+- [x] _[Project - Trybe Tryunfo](2-front-end/extra-tryunfo)_
 
 ## Back-end Development :hourglass_flowing_sand:
 
-- [x] _[Project - All For One](3-front-end/01-all-for-one)_
-- [x] _[Project - Vocabulary Booster](3-front-end/02-vocabulary-booster)_
-- [x] _[Project - One For All](3-front-end/03-one-for-all)_
-- [x] _[Project - Docker Todo List](3-front-end/04-docker-todo-list)_
-- [x] _[Project - Data Flights](3-front-end/05-mongodb-dataflights)_
-- [x] _[Project - Commerce](3-front-end/06-mongodb-commerce)_
+- [x] _[Project - All For One](3-back-end/01-all-for-one)_
+- [x] _[Project - Vocabulary Booster](3-back-end/02-vocabulary-booster)_
+- [x] _[Project - One For All](3-back-end/03-one-for-all)_
+- [x] _[Project - Docker Todo List](3-back-end/04-docker-todo-list)_
+- [x] _[Project - Data Flights](3-back-end/05-mongodb-dataflights)_
+- [x] _[Project - Commerce](3-back-end/06-mongodb-commerce)_
 - [ ] _[Project - Aggregations]()_
 - [ ] _[Project - Talker Manager]()_
 - [ ] _[Project - Store Manager]()_

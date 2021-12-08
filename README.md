@@ -45,7 +45,7 @@ _There are more than 1500 hours of training that covers fundamentals of web deve
 - [x] _[Project - Data Flights](3-back-end/05-mongodb-dataflights)_
 - [x] _[Project - Commerce](3-back-end/06-mongodb-commerce)_
 - [ ] _[Project - Aggregations](3-back-end/07-mongodb-aggregations)_
-- [ ] _[Project - Talker Manager]()_
+- [ ] _[Project - Talker Manager](3-back-end/08-talker-manager)_
 - [ ] _[Project - Store Manager]()_
 - [ ] _[Project - Coockmaster]()_
 - [ ] _[Project - Stranger Things]()_

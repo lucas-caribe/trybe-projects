@@ -7,7 +7,7 @@ _"Trybe is a web development school that has a genuine commitment to the profess
 _There are more than 1500 hours of training that covers fundamentals of web development, development, Front-end, Back-end, computer science, agile methodologies and soft skills."_
 
 
-## Fundamentals - Web Development :white_check_mark:
+## Fundamentals - Web Development :heavy_check_mark:
 
 - [x] _[Project - Lessons Learned](1-fundamentals/01-lessons-learned)_
 - [x] _[Project - Playground Functions](1-fundamentals/02-playground-functions)_
@@ -22,7 +22,7 @@ _There are more than 1500 hours of training that covers fundamentals of web deve
 - [x] _[Project - Shopping Cart](1-fundamentals/11-shopping-cart)_
 - [x] _[Project - Jest Async and Mocking](1-fundamentals/12-jest-async-mocking)_
 
-## Front-end Development - React :white_check_mark:
+## Front-end Development - React :heavy_check_mark:
 
 - [x] _[Project - Movie Cards Library](2-front-end/01-movie-cards-library)_
 - [x] _[Project - Movie Cards Library Stateful](2-front-end/02-movie-cards-library-stateful)_
